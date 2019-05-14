@@ -1,0 +1,15 @@
+14 Acid_Again 0
+1 Joint 10
+2 Gold_Pipe 10
+6 Silver_Pipe 6
+4 Red Bong 9
+5 Acid! 0
+3 Shrooms 4
+11 Cocaine 4
+8 Nitrous_Oxide 7
+9 Cigarettes 7
+7 Peyote 2
+10 Beer 6
+12 Wine 6
+13 Heroin 5
+0
